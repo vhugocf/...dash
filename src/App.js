@@ -20,7 +20,7 @@ function App() {
       <Piada pergunta="o que cai em pé e corre deitado?" resposta="a chuva" />
       <Piada
         pergunta="Qual será o seu REACT ao meu Currículo?"
-        resposta="vou me esforçar para te surpreender nao sei o que "
+        resposta="vou me esforçar para te surpreender nao sei o que o que sera "
 
 
       />
